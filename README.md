@@ -5,5 +5,5 @@ Available Features:
 
 - Supports Bitbucket
 - Sends a summary of open pull requests to different teams' Channels (mention the reviewers to review PRs)
-- Sends Direct Messages (DMs) of open pull requests to Reviewers who haven't approved the PR
+- Sends Direct Messages (DMs) of open pull requests to all Reviewers who haven't approved the PR
 - Shows Date, Time, and Duration of the open pull requests
