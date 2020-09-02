@@ -16,7 +16,6 @@ export const config =  {
       },
       SLACK: {
         WEBHOOK_DEVOPS: process.env.SLACK_WEBHOOK_DEVOPS,
-        WEBHOOK_FABELIO3: process.env.SLACK_WEBHOOK_FABELIO3,
         WEBHOOK_NPS: process.env.SLACK_WEBHOOK_NPS,
         WEBHOOK_REVENUE: process.env.SLACK_WEBHOOK_REVENUE,
         BOT_USER_TOKEN: process.env.BOT_USER_TOKEN,
