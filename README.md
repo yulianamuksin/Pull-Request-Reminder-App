@@ -1,5 +1,5 @@
 # Pull-Request-Reminder-App
-Pull Request Reminder App built using NodeJS and ES6 for Slack Integration.
+Pull Request Reminder App for Slack Integration built using NodeJS and ES6.
 
 Available Features:
 
