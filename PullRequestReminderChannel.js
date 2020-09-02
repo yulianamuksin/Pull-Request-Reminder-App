@@ -150,7 +150,6 @@ class PullRequestReminderChannel {
         await Promise.allSettled(pullRequest).then(val => val.forEach(p => p.status === 'rejected' ? log.error(p.reason) : ''));
 
         prsChannels.push({prsChannel: prsDevops, team: 'devops'});
-        prsChannels.push({prsChannel: prsFabelio3, team: 'fabelio3'});
         prsChannels.push({prsChannel: prsNps, team: 'nps'});
         prsChannels.push({prsChannel: prsRevenue, team: 'revenue'});
 
