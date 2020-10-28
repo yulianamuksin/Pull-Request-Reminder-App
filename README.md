@@ -9,3 +9,10 @@ Features:
 - Mention the name (@) of the reviewers in the messages
 - Remind the authors of PRs to update their PRs once reviewed
 - Shows Date, Time, and Duration of the open pull requests
+
+Channel Notif Message UI:
+![Alt text](screenshot/Screen Shot 2020-10-28 at 13.09.13.png?raw=true "Channel Notif Message UI")
+
+User DM Notif UI:
+![Alt text](screenshot/Screen Shot 2020-10-28 at 13.13.45.png?raw=true "Channel Notif Message UI")
+
